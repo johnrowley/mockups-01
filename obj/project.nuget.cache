@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cETWJGSnw9Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jrowley26\\source\\repos\\sandbox\\mockup-demo-001\\EnterpriseSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jrowley26\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
